@@ -25,8 +25,4 @@ Este projeto implementa um sistema básico de gerenciamento de informações dos
 
 ## Contribuição
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar pull requests.
-
-## Licença
-
-Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Contribuições são bem-vindas!
